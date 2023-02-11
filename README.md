@@ -4,7 +4,7 @@
 <h1 align="center">Hey! Khadeeja Here</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khadeejaarshadali&label=Profile%20views&color=0e75b6&style=flat" alt="khadeejaarshadali" /> </p>
 <div align="center">
-  <img src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif" width="300" height="300"/>
+  <img src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif" width="500" height="500"/>
 </div>
 
 
