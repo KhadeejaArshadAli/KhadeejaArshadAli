@@ -1,10 +1,10 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/rsUGLKwgSvSxmq1VrZ/giphy.gif"/>
+  <img src="https://media.giphy.com/media/rsUGLKwgSvSxmq1VrZ/giphy.gif" width="200" height="100"/>
 </div>
 <h1 align="center">Hey! Khadeeja Here</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khadeejaarshadali&label=Profile%20views&color=0e75b6&style=flat" alt="khadeejaarshadali" /> </p>
 <div align="center">
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="600" height="300"/>
+  <img src="https://github.com/KhadeejaArshadAli/KhadeejaArshadAli/blob/main/Pink%20Yellow%20Colorful%20Happy%20World%20Computer%20Literacy%20Day%20Instagram%20Story.png?raw=true" width="600" height="300"/>
 </div>
 
 
