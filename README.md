@@ -1,5 +1,7 @@
 <h1 align="center">Hey! Khadeeja Here</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khadeejaarshadali&label=Profile%20views&color=0e75b6&style=flat" alt="khadeejaarshadali" /> </p> <center><img src="https://media1.giphy.com/media/BferOKonYOspm28AiB/giphy.gif" width="200" height="100"></center>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khadeejaarshadali&label=Profile%20views&color=0e75b6&style=flat" alt="khadeejaarshadali" /> </p>
+<img align="center" alt="coding" src="https://media1.giphy.com/media/BferOKonYOspm28AiB/giphy.gif">
+
 
 
 <h3 align="left">Connect with me:</h3>
