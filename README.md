@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/cpAGF6uxLw93uuQNNJ/giphy.gif" width="200" height="200"/>
+  <img src="https://media.giphy.com/media/cpAGF6uxLw93uuQNNJ/giphy.gif" width="300" height="200"/>
 </div>
 <h1 align="center">Hey! Khadeeja Here</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khadeejaarshadali&label=Profile%20views&color=0e75b6&style=flat" alt="khadeejaarshadali" /> </p>
